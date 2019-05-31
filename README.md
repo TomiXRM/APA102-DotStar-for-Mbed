@@ -8,7 +8,7 @@ DotStar is Serial Controlable LED.You can use SPI.
 But you don't have to use all pin(MOSI,MISO,SCK and SSEL),only choose two wire MOSI(MasterOutSlaveIn) and SCK(SerialClocK).
 It is more stable than NeoPixel because of using a Serial clock.
 ## Demo
-using SparkFun Lumenati 4-pack(https://www.sparkfun.com/products/14353)
+As using SparkFun Lumenati 4-pack(https://www.sparkfun.com/products/14353)
 
 
 
@@ -57,7 +57,7 @@ int main(){
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/TomiXRM)
 
 ## Author
 
